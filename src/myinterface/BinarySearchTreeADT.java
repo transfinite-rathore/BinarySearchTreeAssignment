@@ -1,4 +1,5 @@
 package myinterface;
+//import implementation.Node<E>;
 
 public interface BinarySearchTreeADT<E extends Comparable<E>> {
     void insert(E data);
